@@ -1,0 +1,97 @@
+﻿  main.cpp
+C:\Users\conta\OneDrive\Área de Trabalho\pingpong\glpong\glpong\Game\main.cpp(245,48): warning C4312: 'conversão de tipo': conversão de 'GLint' para 'void *' de tamanho maior
+C:\Users\conta\OneDrive\Área de Trabalho\pingpong\glpong\glpong\Game\main.cpp(324,59): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+C:\Users\conta\OneDrive\Área de Trabalho\pingpong\glpong\glpong\Game\main.cpp(324,49): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+C:\Users\conta\OneDrive\Área de Trabalho\pingpong\glpong\glpong\Game\main.cpp(443,62): warning C4244: 'argumento': conversão de 'unsigned int' para 'float', possível perda de dados
+C:\Users\conta\OneDrive\Área de Trabalho\pingpong\glpong\glpong\Game\main.cpp(443,49): warning C4244: 'argumento': conversão de 'unsigned int' para 'float', possível perda de dados
+C:\Users\conta\OneDrive\Área de Trabalho\pingpong\glpong\glpong\Game\main.cpp(507,1): error C4430: faltando especificador de tipo - int assumido. Observação: C++ não suporta default-int
+C:\Users\conta\OneDrive\Área de Trabalho\pingpong\glpong\glpong\Game\main.cpp(507,1): error C2365: 'gen2DCircleArray': redefinição; definição anterior era 'função'
+      C:\Users\conta\OneDrive\Área de Trabalho\pingpong\glpong\glpong\Game\main.cpp(268,6):
+      consulte a declaração de 'gen2DCircleArray'
+  
+C:\Users\conta\OneDrive\Área de Trabalho\pingpong\glpong\glpong\Game\main.cpp(510,1): error C4430: faltando especificador de tipo - int assumido. Observação: C++ não suporta default-int
+C:\Users\conta\OneDrive\Área de Trabalho\pingpong\glpong\glpong\Game\main.cpp(510,1): error C2371: 'ballOffset': redefinição; tipos básicos diferentes
+      C:\Users\conta\OneDrive\Área de Trabalho\pingpong\glpong\glpong\Game\main.cpp(36,6):
+      consulte a declaração de 'ballOffset'
+  
+C:\Users\conta\OneDrive\Área de Trabalho\pingpong\glpong\glpong\Game\main.cpp(519,1): error C4430: faltando especificador de tipo - int assumido. Observação: C++ não suporta default-int
+C:\Users\conta\OneDrive\Área de Trabalho\pingpong\glpong\glpong\Game\main.cpp(519,1): error C2365: 'genVAO': redefinição; definição anterior era 'função'
+      C:\Users\conta\OneDrive\Área de Trabalho\pingpong\glpong\glpong\Game\main.cpp(210,6):
+      consulte a declaração de 'genVAO'
+  
+C:\Users\conta\OneDrive\Área de Trabalho\pingpong\glpong\glpong\Game\main.cpp(522,1): error C2909: 'genBufferObject': instanciação explícita de template de função requer tipo de retorno
+C:\Users\conta\OneDrive\Área de Trabalho\pingpong\glpong\glpong\Game\main.cpp(522,1): error C4430: faltando especificador de tipo - int assumido. Observação: C++ não suporta default-int
+C:\Users\conta\OneDrive\Área de Trabalho\pingpong\glpong\glpong\Game\main.cpp(522,1): error C7538: 'genBufferObject' não é um modelo de variável
+C:\Users\conta\OneDrive\Área de Trabalho\pingpong\glpong\glpong\Game\main.cpp(522,1): error C2365: 'genBufferObject': redefinição; definição anterior era 'função'
+      C:\Users\conta\OneDrive\Área de Trabalho\pingpong\glpong\glpong\Game\main.cpp(217,6):
+      consulte a declaração de 'genBufferObject'
+  
+C:\Users\conta\OneDrive\Área de Trabalho\pingpong\glpong\glpong\Game\main.cpp(523,1): error C2909: 'setAttPointer': instanciação explícita de template de função requer tipo de retorno
+C:\Users\conta\OneDrive\Área de Trabalho\pingpong\glpong\glpong\Game\main.cpp(523,1): error C4430: faltando especificador de tipo - int assumido. Observação: C++ não suporta default-int
+C:\Users\conta\OneDrive\Área de Trabalho\pingpong\glpong\glpong\Game\main.cpp(523,1): error C7538: 'setAttPointer' não é um modelo de variável
+C:\Users\conta\OneDrive\Área de Trabalho\pingpong\glpong\glpong\Game\main.cpp(523,1): error C2365: 'setAttPointer': redefinição; definição anterior era 'função'
+      C:\Users\conta\OneDrive\Área de Trabalho\pingpong\glpong\glpong\Game\main.cpp(232,6):
+      consulte a declaração de 'setAttPointer'
+  
+C:\Users\conta\OneDrive\Área de Trabalho\pingpong\glpong\glpong\Game\main.cpp(526,1): error C2909: 'genBufferObject': instanciação explícita de template de função requer tipo de retorno
+C:\Users\conta\OneDrive\Área de Trabalho\pingpong\glpong\glpong\Game\main.cpp(526,1): error C4430: faltando especificador de tipo - int assumido. Observação: C++ não suporta default-int
+C:\Users\conta\OneDrive\Área de Trabalho\pingpong\glpong\glpong\Game\main.cpp(526,1): error C7538: 'genBufferObject' não é um modelo de variável
+C:\Users\conta\OneDrive\Área de Trabalho\pingpong\glpong\glpong\Game\main.cpp(526,1): error C2365: 'genBufferObject': redefinição; definição anterior era 'função'
+      C:\Users\conta\OneDrive\Área de Trabalho\pingpong\glpong\glpong\Game\main.cpp(217,6):
+      consulte a declaração de 'genBufferObject'
+  
+C:\Users\conta\OneDrive\Área de Trabalho\pingpong\glpong\glpong\Game\main.cpp(527,1): error C2909: 'setAttPointer': instanciação explícita de template de função requer tipo de retorno
+C:\Users\conta\OneDrive\Área de Trabalho\pingpong\glpong\glpong\Game\main.cpp(527,1): error C4430: faltando especificador de tipo - int assumido. Observação: C++ não suporta default-int
+C:\Users\conta\OneDrive\Área de Trabalho\pingpong\glpong\glpong\Game\main.cpp(527,1): error C7538: 'setAttPointer' não é um modelo de variável
+C:\Users\conta\OneDrive\Área de Trabalho\pingpong\glpong\glpong\Game\main.cpp(527,1): error C2365: 'setAttPointer': redefinição; definição anterior era 'função'
+      C:\Users\conta\OneDrive\Área de Trabalho\pingpong\glpong\glpong\Game\main.cpp(232,6):
+      consulte a declaração de 'setAttPointer'
+  
+C:\Users\conta\OneDrive\Área de Trabalho\pingpong\glpong\glpong\Game\main.cpp(530,1): error C2909: 'genBufferObject': instanciação explícita de template de função requer tipo de retorno
+C:\Users\conta\OneDrive\Área de Trabalho\pingpong\glpong\glpong\Game\main.cpp(530,1): error C4430: faltando especificador de tipo - int assumido. Observação: C++ não suporta default-int
+C:\Users\conta\OneDrive\Área de Trabalho\pingpong\glpong\glpong\Game\main.cpp(530,1): error C7538: 'genBufferObject' não é um modelo de variável
+C:\Users\conta\OneDrive\Área de Trabalho\pingpong\glpong\glpong\Game\main.cpp(530,1): error C2365: 'genBufferObject': redefinição; definição anterior era 'função'
+      C:\Users\conta\OneDrive\Área de Trabalho\pingpong\glpong\glpong\Game\main.cpp(217,6):
+      consulte a declaração de 'genBufferObject'
+  
+C:\Users\conta\OneDrive\Área de Trabalho\pingpong\glpong\glpong\Game\main.cpp(531,1): error C2909: 'setAttPointer': instanciação explícita de template de função requer tipo de retorno
+C:\Users\conta\OneDrive\Área de Trabalho\pingpong\glpong\glpong\Game\main.cpp(531,1): error C4430: faltando especificador de tipo - int assumido. Observação: C++ não suporta default-int
+C:\Users\conta\OneDrive\Área de Trabalho\pingpong\glpong\glpong\Game\main.cpp(531,1): error C7538: 'setAttPointer' não é um modelo de variável
+C:\Users\conta\OneDrive\Área de Trabalho\pingpong\glpong\glpong\Game\main.cpp(531,1): error C2365: 'setAttPointer': redefinição; definição anterior era 'função'
+      C:\Users\conta\OneDrive\Área de Trabalho\pingpong\glpong\glpong\Game\main.cpp(232,6):
+      consulte a declaração de 'setAttPointer'
+  
+C:\Users\conta\OneDrive\Área de Trabalho\pingpong\glpong\glpong\Game\main.cpp(534,1): error C2909: 'genBufferObject': instanciação explícita de template de função requer tipo de retorno
+C:\Users\conta\OneDrive\Área de Trabalho\pingpong\glpong\glpong\Game\main.cpp(534,1): error C4430: faltando especificador de tipo - int assumido. Observação: C++ não suporta default-int
+C:\Users\conta\OneDrive\Área de Trabalho\pingpong\glpong\glpong\Game\main.cpp(534,1): error C7538: 'genBufferObject' não é um modelo de variável
+C:\Users\conta\OneDrive\Área de Trabalho\pingpong\glpong\glpong\Game\main.cpp(534,1): error C2365: 'genBufferObject': redefinição; definição anterior era 'função'
+      C:\Users\conta\OneDrive\Área de Trabalho\pingpong\glpong\glpong\Game\main.cpp(217,6):
+      consulte a declaração de 'genBufferObject'
+  
+C:\Users\conta\OneDrive\Área de Trabalho\pingpong\glpong\glpong\Game\main.cpp(537,1): error C4430: faltando especificador de tipo - int assumido. Observação: C++ não suporta default-int
+C:\Users\conta\OneDrive\Área de Trabalho\pingpong\glpong\glpong\Game\main.cpp(537,1): error C2365: 'unbindBuffer': redefinição; definição anterior era 'função'
+      C:\Users\conta\OneDrive\Área de Trabalho\pingpong\glpong\glpong\Game\main.cpp(249,6):
+      consulte a declaração de 'unbindBuffer'
+  
+C:\Users\conta\OneDrive\Área de Trabalho\pingpong\glpong\glpong\Game\main.cpp(538,1): error C4430: faltando especificador de tipo - int assumido. Observação: C++ não suporta default-int
+C:\Users\conta\OneDrive\Área de Trabalho\pingpong\glpong\glpong\Game\main.cpp(538,1): error C2556: 'int unbindVAO(void)': função sobrecarregada difere apenas pelo tipo de retorno de 'void unbindVAO(void)'
+      C:\Users\conta\OneDrive\Área de Trabalho\pingpong\glpong\glpong\Game\main.cpp(254,6):
+      consulte a declaração de 'unbindVAO'
+  
+C:\Users\conta\OneDrive\Área de Trabalho\pingpong\glpong\glpong\Game\main.cpp(538,1): error C2371: 'unbindVAO': redefinição; tipos básicos diferentes
+      C:\Users\conta\OneDrive\Área de Trabalho\pingpong\glpong\glpong\Game\main.cpp(254,6):
+      consulte a declaração de 'unbindVAO'
+  
+C:\Users\conta\OneDrive\Área de Trabalho\pingpong\glpong\glpong\Game\main.cpp(544,1): error C4430: faltando especificador de tipo - int assumido. Observação: C++ não suporta default-int
+C:\Users\conta\OneDrive\Área de Trabalho\pingpong\glpong\glpong\Game\main.cpp(544,1): error C2556: 'int displayScore(void)': função sobrecarregada difere apenas pelo tipo de retorno de 'void displayScore(void)'
+      C:\Users\conta\OneDrive\Área de Trabalho\pingpong\glpong\glpong\Game\main.cpp(400,6):
+      consulte a declaração de 'displayScore'
+  
+C:\Users\conta\OneDrive\Área de Trabalho\pingpong\glpong\glpong\Game\main.cpp(544,1): error C2371: 'displayScore': redefinição; tipos básicos diferentes
+      C:\Users\conta\OneDrive\Área de Trabalho\pingpong\glpong\glpong\Game\main.cpp(400,6):
+      consulte a declaração de 'displayScore'
+  
+C:\Users\conta\OneDrive\Área de Trabalho\pingpong\glpong\glpong\Game\main.cpp(547,1): error C2059: erro de sintaxe: 'while'
+C:\Users\conta\OneDrive\Área de Trabalho\pingpong\glpong\glpong\Game\main.cpp(547,40): error C2143: erro de sintaxe: ';' ausente antes de '{'
+C:\Users\conta\OneDrive\Área de Trabalho\pingpong\glpong\glpong\Game\main.cpp(547,40): error C2447: '{': faltando cabeçalho de função (lista formal de estilo antigo?)
+C:\Users\conta\OneDrive\Área de Trabalho\pingpong\glpong\glpong\Game\main.cpp(702,1): error C1004: fim de arquivo inesperado encontrado

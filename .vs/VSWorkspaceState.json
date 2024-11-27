@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\glpong",
+    "\\glpong\\glpong",
+    "\\glpong\\glpong\\Game",
+    "\\glpong\\glpong\\Linking",
+    "\\glpong\\glpong\\Linking\\lib",
+    "\\glpong\\glpong\\Linking\\lib\\GLFW"
+  ],
+  "SelectedNode": "\\glpong\\glpong\\glpong.sln",
+  "PreviewInSolutionExplorer": false
+}
